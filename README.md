@@ -20,3 +20,4 @@ open the makejsonfile.py
 
 7. Hit enter and it prints the name of NFTs and also the generated SHA256 for each row. That tells you that json file has been created. Now check into the folder for the json files, You will find all json files for each row in CHIP-007 format.
 
+P.S in case there are any errors, kindly make sure the title of each columns in the CSV file are in this formatt same with the following; "Series Number" , "Filename" , "Description" , "Gender", "UUID" and "Hash". 
