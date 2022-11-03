@@ -46,6 +46,7 @@ for row in csv_reader:
     jsonout = open(jsonfile_path + '\\' + str(n['Filename']) + '.json', 'w')
     jsonout.write(json.dumps(data, indent=6))
 jsonout.close()
+csv_file.close()
 
 
 #create the sha of the json files
