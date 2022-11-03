@@ -29,4 +29,4 @@ C:\Users\jude kennywise\NftJSON\nftname.json
 
 11. Copy the sha256 and append to your CSV file.
 
-
+P.S: Incase of an error, make the the name column on your CSV is titled "Filename". The script searches for this key to fetch the names of the NFT in order to name the json file.
